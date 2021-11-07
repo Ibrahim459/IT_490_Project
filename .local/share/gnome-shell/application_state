@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="nautilus-autorun-software.desktop" score="0" last-seen="1636316144"/>
+    <application id="gnome-initial-setup.desktop" score="6" last-seen="1636315660"/>
+    <application id="org.gnome.Terminal.desktop" score="96" last-seen="1636316352"/>
+    <application id="update-manager.desktop" score="0" last-seen="1636315695"/>
+    <application id="org.gnome.tweaks.desktop" score="7" last-seen="1636316407"/>
+  </context>
+</application-state>
